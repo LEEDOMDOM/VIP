@@ -1,0 +1,144 @@
+.login {
+  background-color: #fdfbff;
+}
+.login .login-header {
+  padding: 44px 0px;
+}
+.login .login-header .left {
+  float: left;
+  display: inline-block;
+  width: 313px;
+  height: 53px;
+  background: url(../images/sprite.png) 0 0 no-repeat;
+}
+.login .login-header .right {
+  float: right;
+  width: 445px;
+  height: 28px;
+  margin-top: 12.5px;
+  display: inline-block;
+  background: url(../images/sprite.png) -317px 0 no-repeat;
+}
+.login .login-main {
+  height: 600px;
+  background: url(../images/login-bg.jpg) 0 0 no-repeat;
+}
+.login .login-main .logins {
+  float: right;
+  position: relative;
+  padding: 40px 100px 0px 0px;
+}
+.login .login-main .logins .iflogin {
+  font-size: 14px;
+  color: #000;
+  margin-bottom: 15px;
+}
+.login .login-main .logins input {
+  width: 272px;
+  display: block;
+  line-height: 32px;
+  padding-left: 10px;
+  margin-bottom: 25px;
+  border: 1px solid #999;
+}
+.login .login-main .logins .show {
+  height: 25px;
+  line-height: 25px;
+  color: #f10180;
+  font-size: 13px;
+  position: absolute;
+}
+.login .login-main .logins .show.show1 {
+  top: 108px;
+  left: 0px;
+  display: none;
+}
+.login .login-main .logins .show.show2 {
+  top: 168px;
+  left: 0px;
+  display: none;
+}
+.login .login-main .logins .loginbtn {
+  width: 138px;
+  height: 38px;
+  line-height: 38px;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  background-color: #f10180;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.login .login-main .logins .res {
+  margin-top: 20px;
+}
+.login .login-main .logins .res .left {
+  float: left;
+  cursor: pointer;
+  color: #000;
+}
+.login .login-main .logins .res .left .remeber {
+  display: inline-block;
+  width: 19px;
+  height: 16px;
+  background: url(../images/spriteone.png) -24px 0 no-repeat;
+}
+.login .login-main .logins .res .left .remeber.remebers {
+  display: inline-block;
+  width: 19px;
+  height: 16px;
+  background: url(../images/spriteone.png) 0px 0 no-repeat;
+}
+.login .login-main .logins .res .right {
+  float: right;
+  cursor: pointer;
+}
+.login .login-main .logins .res .right .span1:hover {
+  color: #f10180;
+}
+.login .login-main .logins .res .right .span2 {
+  color: #f10180;
+}
+.login .login-main .logins .link {
+  margin-top: 45px;
+}
+.login .login-main .logins .link a {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  margin: 8px 5px 0px 0px;
+}
+.login .login-main .logins .link a.icon1 {
+  background: url(../images/sprite.png) -179px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon1:hover {
+  background: url(../images/sprite.png) -151px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon2 {
+  background: url(../images/sprite.png) -291px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon2:hover {
+  background: url(../images/sprite.png) -263px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon3 {
+  background: url(../images/sprite.png) -207px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon3:hover {
+  background: url(../images/sprite.png) -319px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon4 {
+  background: url(../images/sprite.png) -235px -57px no-repeat;
+}
+.login .login-main .logins .link a.icon4:hover {
+  background: url(../images/sprite.png) -347px -57px no-repeat;
+}
+.login .login-main .logins .link .more {
+  cursor: pointer;
+}
+.login .login-main .logins .link .more:hover {
+  color: #f10180;
+}
+.login .login-footer {
+  text-align: center;
+  margin-bottom: 40px;
+}

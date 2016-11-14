@@ -1,0 +1,6 @@
+1、此轮播图插件需要用到jquery，完整版seajs，underscore插件
+2、使用此轮播图需要四个参数：
+  wraper:需要绑定的父节点（必写）；
+  imgs:需要传入的图片地址的对象数组，格式在banner.js中有介绍（必写）；
+  gap:轮播间隔时间，单位为：Ms（默认2500）；
+  hovers:光标hover图片上时，轮播图是否停止跳转，值为：true/false,默认为false；

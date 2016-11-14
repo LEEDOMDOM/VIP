@@ -1,0 +1,35 @@
+[
+    {
+	"img1" : "images/suitdress-img1.jpg",
+	"text1" : "简洁典雅",
+	"text2" : "满498减100 , 上不封顶",
+	"num" : "0.9",
+	"text3" : "折起 TT.COLOR女装专场",
+	"days" : "剩0天"
+    },
+	{
+	"img1" : "images/suitdress-img2.jpg",
+	"text1" : "收藏品牌",
+	"text2" : "满498减100 , 上不封顶",
+	"num" : "0.1",
+	"text3" : "折起 舒朗旗下品牌女装专场",
+	"days" : "剩15天"
+    },
+    {
+	"img1" : "images/suitdress-img2.jpg",
+	"text1" : "经典舒服",
+	"text2" : "满498减100 , 上不封顶",
+	"num" : "0.7",
+	"text3" : "折起 北极绒羊绒女装专场",
+	"days" : "剩5天"
+    },
+    {
+	"img1" : "images/suitdress-img1.jpg",
+	"text1" : "收藏品牌",
+	"text2" : "满498减100 , 上不封顶",
+	"num" : "1.7",
+	"text3" : "折起 纳寇nakou女装专场",
+	"days" : "剩5天"
+    }
+    
+]

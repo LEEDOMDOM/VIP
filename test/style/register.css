@@ -1,0 +1,133 @@
+.register {
+  background-color: #fdfbff;
+}
+.register .register-header {
+  padding: 44px 0px;
+}
+.register .register-header .left {
+  float: left;
+  display: inline-block;
+  width: 313px;
+  height: 53px;
+  background: url(../images/sprite.png) 0 0 no-repeat;
+}
+.register .register-header .right {
+  float: right;
+  width: 445px;
+  height: 28px;
+  margin-top: 12.5px;
+  display: inline-block;
+  background: url(../images/sprite.png) -317px 0 no-repeat;
+}
+.register .register-main {
+  height: 600px;
+  background: url(../images/login-bg.jpg) 0 0 no-repeat;
+}
+.register .register-main .registers {
+  float: right;
+  padding: 40px 100px 0px 0px;
+}
+.register .register-main .registers .ifregister {
+  margin-bottom: 20px;
+}
+.register .register-main .registers .ifregister .span1 {
+  float: left;
+  font-size: 14px;
+}
+.register .register-main .registers .ifregister .span2 {
+  float: right;
+}
+.register .register-main .registers .ifregister .span2 a {
+  color: #f10180;
+}
+.register .register-main .registers .ifregister .span2 a:hover {
+  text-decoration: underline;
+}
+.register .register-main .registers input {
+  width: 272px;
+  display: block;
+  line-height: 32px;
+  padding-left: 10px;
+  margin-bottom: 24px;
+}
+.register .register-main .registers .error {
+  top: 39px;
+  left: 0;
+  color: red;
+  display: none;
+}
+.register .register-main .registers .suiji .numinput {
+  width: 122px;
+  float: left;
+}
+.register .register-main .registers .suiji .right {
+  float: right;
+}
+.register .register-main .registers .suiji .right img {
+  display: inline-block;
+}
+.register .register-main .registers .suiji .right .suijibg {
+  display: inline-block;
+  width: 80px;
+  height: 32px;
+  margin-right: 10px;
+  background-image: url(../images/captcha1.png);
+  background-size: 80px 32px;
+}
+.register .register-main .registers .codeinput .sendcode {
+  width: 140px;
+  float: left;
+}
+.register .register-main .registers .codeinput .clickcode {
+  cursor: pointer;
+  float: right;
+  width: 120px;
+  height: 35px;
+  line-height: 35px;
+  background-color: #d0d0d0;
+  text-align: center;
+  border-radius: 3px;
+}
+.register .register-main .registers .registerbtn .btn {
+  float: left;
+  width: 138px;
+  height: 38px;
+  line-height: 38px;
+  color: #fff;
+  font-size: 16px;
+  text-align: center;
+  background-color: #f10180;
+  border-radius: 3px;
+  cursor: pointer;
+}
+.register .register-main .registers .registerbtn a {
+  float: right;
+  color: #1d94d1;
+  line-height: 45px;
+}
+.register .register-main .registers .res {
+  margin-top: 20px;
+  cursor: pointer;
+}
+.register .register-main .registers .res .remeber {
+  display: inline-block;
+  width: 19px;
+  height: 16px;
+  background: url(../images/spriteone.png) -24px 0 no-repeat;
+}
+.register .register-main .registers .res .remeber.remebers {
+  display: inline-block;
+  width: 19px;
+  height: 16px;
+  background: url(../images/spriteone.png) 0px 0 no-repeat;
+}
+.register .register-main .registers .res .vipclause {
+  color: red;
+}
+.register .register-main .registers .res .vipclause:hover {
+  color: #f43499;
+}
+.register .register-footer {
+  text-align: center;
+  margin-bottom: 40px;
+}
